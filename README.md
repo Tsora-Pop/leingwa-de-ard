@@ -13,15 +13,15 @@ That said, romance, germanic, and slavic languages have numerous grammatical com
 But it doesn't just seek to just use what is most commonly used, it seeks to balance common use, ease of communication (written and spoken), and ease of learning. An example of this is leiŋxa, which is the teran word for language. It combines the 2 most common pronunciations of the word: language and bhasha. 
 
 teran rules:
-All countries are pronounced how they are in their native country, but spelled using teran alphabet.
-All root words must be the most common across the world, accounting for volume of people and use across the world.
-Sentences must be in SVO format, as this the most commonly spoken sentence structure order.
-The language is to be kept simple. No gender, articles, tenses, diacritics, case/capitilization, synonyms, and various derogatory terms are to be used. 
-Consonents can only be followed and preceded by a single flexible consonant then followed by a vowel or semivowel. A semivowel always followed by vowel, a vowel may only be followed by 1 other different vowel as a dipthong.
-Consonants and vowels have 1 sound, wheras vowels slightly change when paired with another vowels becoming a dipthong. 
-Pronouns will be genderless and simple, with a simple suffix added on pronouns if plural. Plural is otherwise specified with adjective modifiers.
-Metric system supported, as well as a counting system similar to esperanto.
-Spaces must be used between each word. no hyphens are to be used to join one word to another.
+1. All countries are pronounced how they are in their native country, but spelled using teran alphabet.
+2. All root words must be the most common across the world, accounting for volume of people and use across the world.
+3. Sentences must be in SVO format, as this the most commonly spoken sentence structure order.
+4. The language is to be kept simple. No gender, articles, tenses, diacritics, case/capitilization, synonyms, and various derogatory terms are to be used. 
+5. Consonents can only be followed and preceded by a single flexible consonant then followed by a vowel or semivowel. A semivowel always followed by vowel, a vowel may only be followed by 1 other different vowel as a dipthong.
+6. Consonants and vowels have 1 sound, wheras vowels slightly change when paired with another vowels becoming a dipthong. 
+7. Pronouns will be genderless and simple, with a simple suffix added on pronouns if plural. Plural is otherwise specified with adjective modifiers.
+8. Metric system supported, as well as a counting system similar to esperanto.
+9. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
 teran alphabet
 a
