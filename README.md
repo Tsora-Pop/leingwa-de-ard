@@ -50,7 +50,7 @@ v
 w
 y
 z
-Ж 
+ж
 
 Dipthongs	Example <br>
 
