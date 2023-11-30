@@ -26,7 +26,7 @@ teran rules:
 teran alphabet
 a
 b
-Ч 
+ч
 d
 e
 f
