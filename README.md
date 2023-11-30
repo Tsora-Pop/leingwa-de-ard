@@ -52,6 +52,14 @@ y
 z
 Ж 
 
+Dipthongs	Example
+ui̯	GUI <br>
+ei 	make <br>
+eu̯	few <br>
+ai̯	tie <br>
+oi̯	coin <br>
+au	cow
+
 pronouns
 first person - mi
 second person - tu
