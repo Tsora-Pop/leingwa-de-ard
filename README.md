@@ -16,41 +16,42 @@ teran rules:
 1. All countries are pronounced how they are in their native country, but spelled using teran alphabet.
 2. All root words must be the most common across the world, accounting for volume of people and use across the world.
 3. Sentences must be in SVO format, as this the most commonly spoken sentence structure order.
-4. The language is to be kept simple. No gender, articles, tenses, diacritics, case/capitilization, synonyms, and various derogatory terms are to be used. 
+4. The language is to be kept simple. No gender, articles, tenses, diacritics, case/capitilization, synonyms. Various derogatory terms are not to be used. 
 5. Consonents can only be followed and preceded by a single flexible consonant then followed by a vowel or semivowel. A semivowel always followed by vowel, a vowel may only be followed by 1 other different vowel as a dipthong.
-6. Consonants and vowels have 1 sound, wheras vowels slightly change when paired with another vowels becoming a dipthong. 
+6. Consonants have 1 sound, vowels have a slight range of sound, and vowels may sound changed when paired with another vowel to become a dipthong. 
 7. Pronouns will be genderless and simple, with a simple suffix added on pronouns if plural. Plural is otherwise specified with adjective modifiers.
 8. Metric system supported, as well as a counting system similar to esperanto.
 9. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
 teran alphabet
-a
-b
-ч
-d
-e
-f
-g
-h
-i
-j 
-k
-l
-m
-n
-ŋ 
-o
-p
-r
-s
-x 
-t
-u
-v
-w
-y
-z
-ж
+ʌ: IPA (ə,ʌ)
+a: IPA (ä,ɐ,ɔ,ɒ,ɑ)
+b: IPA (b)
+ч: IPA (t͜ʃ)
+d: IPA(d)
+e: IPA (e̞,ɛ,ø̞,ɪ,ʏ,ɘ,œ)
+f: IPA(f)
+g: IPA(g)
+h: IPA(h)
+i: IPA (i,y)
+j: IPA(d͜ʒ)
+k: IPA(k)
+l: IPA (l)
+m: IPA (m)
+n: IPA(n)
+ŋ: IPA(ŋ)
+o: IPA (o,o̞)
+p: IPA(p)
+r: IPA(r)
+s: IPA(s)
+x: IPA(ʃ)
+t: IPA(t)
+u: IPA (u,ɯ,ʊ,ɵ,ʉ,ɨ)
+v: IPA (v)
+w: IPA(w)
+y: IPA(j)
+z: IPA(z)
+ж: IPA(ʒ)
 
 Dipthongs	Example <br>
 
@@ -59,7 +60,8 @@ ei 	make <br>
 eu̯	few <br>
 ai̯	tie <br>
 oi̯	coin <br>
-au	cow
+au	cow <br>
+ae ant
 
 pronouns
 first person - mi
