@@ -23,7 +23,7 @@ teran rules:
 8. Metric system supported, as well as a counting system similar to esperanto.
 9. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
-teran alphabet
+teran alphabet <br>
 ʌ: IPA (ə,ʌ) <br>
 a: IPA (ä,ɐ,ɔ,ɒ,ɑ) <br>
 b: IPA (b) <br>
