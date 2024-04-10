@@ -24,33 +24,33 @@ teran rules:
 9. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
 teran alphabet
-ʌ: IPA (ə,ʌ)
-a: IPA (ä,ɐ,ɔ,ɒ,ɑ)
-b: IPA (b)
-ч: IPA (t͜ʃ)
-d: IPA(d)
-e: IPA (e̞,ɛ,ø̞,ɪ,ʏ,ɘ,œ)
-f: IPA(f)
-g: IPA(g)
-h: IPA(h)
-i: IPA (i,y)
-j: IPA(d͜ʒ)
-k: IPA(k)
-l: IPA (l)
-m: IPA (m)
-n: IPA(n)
-ŋ: IPA(ŋ)
-o: IPA (o,o̞)
-p: IPA(p)
-r: IPA(r)
-s: IPA(s)
-x: IPA(ʃ)
-t: IPA(t)
-u: IPA (u,ɯ,ʊ,ɵ,ʉ,ɨ)
-v: IPA (v)
-w: IPA(w)
-y: IPA(j)
-z: IPA(z)
+ʌ: IPA (ə,ʌ) <br>
+a: IPA (ä,ɐ,ɔ,ɒ,ɑ) <br>
+b: IPA (b) <br>
+ч: IPA (t͜ʃ) <br>
+d: IPA(d) <br>
+e: IPA (e̞,ɛ,ø̞,ɪ,ʏ,ɘ,œ) <br>
+f: IPA(f) <br>
+g: IPA(g) <br>
+h: IPA(h) <br>
+i: IPA (i,y) <br>
+j: IPA(d͜ʒ) <br>
+k: IPA(k) <br>
+l: IPA (l) <br>
+m: IPA (m) <br>
+n: IPA(n) <br>
+ŋ: IPA(ŋ) <br>
+o: IPA (o,o̞) <br>
+p: IPA(p) <br>
+r: IPA(r) <br>
+s: IPA(s) <br>
+x: IPA(ʃ) <br>
+t: IPA(t) <br>
+u: IPA (u,ɯ,ʊ,ɵ,ʉ,ɨ) <br>
+v: IPA (v) <br>
+w: IPA(w) <br>
+y: IPA(j) <br>
+z: IPA(z) <br>
 ж: IPA(ʒ)
 
 Dipthongs	Example <br>
