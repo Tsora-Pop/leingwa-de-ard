@@ -1,7 +1,7 @@
 # teran-language
-teran language, or teran leiŋxa, is a proposed constructed international auxiliary language. 
+teran language, or teran leiŋшa, is a proposed constructed international auxiliary language. 
 
-Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "teran". teran does not seek to replace native languages, but to provide a simple bridge when needed.
+Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "teran". teran  seeks to provide a simple bridge when needed.
 
 Access: Access to the rules and word lists will always be free on GitHub. Any are free to teach teran to others in any form. For those who wish to have physical copies, I will put out an inexpensive book to purchase the contents of what is on GitHub. 
 
@@ -24,8 +24,9 @@ teran rules:
 9. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
 teran alphabet <br>
-ʌ: IPA (ə,ʌ) <br>
-a: IPA (ä,ɐ,ɔ,ɒ,ɑ) <br>
+ʌ: IPA (ə, ʌ, ɞ) <br>
+a: IPA (a, ä, ɐ) <br>
+ɑ: IPA (ɑ, ɒ, ɔ) <br>
 b: IPA (b) <br>
 ч: IPA (t͜ʃ) <br>
 d: IPA(d) <br>
@@ -44,7 +45,7 @@ o: IPA (o,o̞) <br>
 p: IPA(p) <br>
 r: IPA(r) <br>
 s: IPA(s) <br>
-x: IPA(ʃ) <br>
+ш: IPA(ʃ) <br>
 t: IPA(t) <br>
 u: IPA (u,ɯ,ʊ,ɵ,ʉ,ɨ) <br>
 v: IPA (v) <br>
@@ -60,7 +61,7 @@ ei 	make <br>
 eu̯	few <br>
 ai̯	tie <br>
 oi̯	coin <br>
-au	cow <br>
+au	cow, loud <br>
 ae ant
 
 pronouns
@@ -72,7 +73,7 @@ plural
 only pronouns will be plural
 example: tamen (them, they, those)
 
-tenses - none
+tenses - none, instead always use
 
 articles - none
 
