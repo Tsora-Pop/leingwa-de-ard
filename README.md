@@ -1,19 +1,19 @@
-# teran-language
-teran language, or teran leiŋшa, is a proposed constructed international auxiliary language. 
+# leingwa-de-erd
+leingwa de erd, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
 
-Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "teran". teran  seeks to provide a simple bridge when needed.
+Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "leingwa de erd". This language seeks to provide a simple bridge when needed.
 
-Access: Access to the rules and word lists will always be free on GitHub. Any are free to teach teran to others in any form. For those who wish to have physical copies, I will put out an inexpensive book to purchase the contents of what is on GitHub. 
+Access: Access to the rules and word lists will always be free on GitHub. Any are free to teach leingwa de erd to others in any form. For those who wish to have physical copies, I will put out an inexpensive book to purchase the contents of what is on GitHub. 
 
 Descriptions: This language compares aspects of language across the world, with a special emphasis on volume of speakers. An example of this is using a modified version of the Latin alphabet as most of the world uses 
 A: alphabets instead of other letter systems and 
 B: modified Latin ones. 
-That said, romance, germanic, and slavic languages have numerous grammatical complexities that make it difficult for learners coming from arabic, chinese, korean, japanese, and so on. teran's grammer is heavily influenced by chinese languages, while the root word vocabulary is largely indo-european based. 
+That said, romance, germanic, and slavic languages have numerous grammatical complexities that make it difficult for learners coming from arabic, chinese, korean, japanese, and so on. Grammer is heavily influenced by chinese languages, while the root word vocabulary is largely indo-european based. The order is largely how you would expect in Spanish. 
 
-But it doesn't just seek to just use what is most commonly used, it seeks to balance common use, ease of communication (written and spoken), and ease of learning. An example of this is leiŋxa, which is the teran word for language. It combines the 2 most common pronunciations of the word: language and bhasha. 
+But it doesn't just seek to just use what is most commonly used, it seeks to balance common use, ease of communication (written and spoken), and ease of learning. 
 
-teran rules:
-1. All countries are pronounced how they are in their native country, but spelled using teran alphabet.
+leingwa de erd rules:
+1. All countries are pronounced how they are in their native country, but spelled using this alphabet.
 2. All root words must be the most common across the world, accounting for volume of people and use across the world.
 3. Sentences must be in SVO format, as this the most commonly spoken sentence structure order.
 4. The language is to be kept simple. No gender, articles, tenses, diacritics, case/capitilization, synonyms. Various derogatory terms are not to be used. 
@@ -23,7 +23,7 @@ teran rules:
 8. Metric system supported, as well as a counting system similar to esperanto.
 9. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
-teran alphabet <br>
+leingwa de erd alphabet <br>
 ʌ: IPA (ə, ʌ, ɞ) <br>
 a: IPA (a, ä, ɐ) <br>
 ɑ: IPA (ɑ, ɒ, ɔ) <br>
@@ -40,7 +40,7 @@ k: IPA(k) <br>
 l: IPA (l) <br>
 m: IPA (m) <br>
 n: IPA(n) <br>
-ŋ: IPA(ŋ) <br>
+ŋ: IPA(ŋ) <br> -- pending removal 
 o: IPA (o,o̞) <br>
 p: IPA(p) <br>
 r: IPA(r) <br>
