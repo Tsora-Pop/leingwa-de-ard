@@ -1,9 +1,9 @@
-# leingwa-de-ard
-leingwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
+# leīngwa-de-ard
+leīngwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
 
-Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "leingwa de ard". This language seeks to provide a simple bridge when needed.
+Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "leīngwa de ard". This language seeks to provide a simple bridge when needed.
 
-Access: Access to the rules and word lists will always be free on GitHub. Any are free to teach leingwa de ard to others in any form. For those who wish to have physical copies, I will put out an inexpensive book to purchase the contents of what is on GitHub. 
+Access: Access to the rules and word lists will always be free on GitHub. Any are free to teach leīngwa de ard to others in any form. For those who wish to have physical copies, I will put out an inexpensive book to purchase the contents of what is on GitHub. 
 
 Description: This language compares aspects of language across the world, with a special emphasis on volume of speakers. An example of this is using a modified version of the Latin alphabet as most of the world uses 
 A: alphabets instead of other letter systems and 
@@ -12,7 +12,7 @@ That said, romance, germanic, and slavic languages have numerous grammatical com
 
 But it doesn't just seek to just use what is most commonly used, it seeks to balance common use, ease of communication (written and spoken), and ease of learning. 
 
-leingwa de ard rules:
+leīngwa de ard rules:
 1. All countries are pronounced how they are in their native country, but spelled using this alphabet.
 2. All root words must be the most common across the world, accounting for volume of people and use across the world.
 3. Sentences must be in SVO format, as this the most commonly spoken sentence structure order.
@@ -23,7 +23,7 @@ leingwa de ard rules:
 8. Metric system supported, as well as a counting system similar to esperanto.
 9. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
-leingwa de ard alphabet <br>
+leīngwa de ard alphabet <br>
 ʌ: IPA (ə, ʌ, ɞ) <br>
 a: IPA (a, ä, ɐ) <br>
 ɑ: IPA (ɑ, ɒ, ɔ) <br>
