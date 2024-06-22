@@ -5,7 +5,7 @@ Purpose: The purpose of this language is to actually succeed where other interna
 
 Access: Access to the rules and word lists will always be free on GitHub. Any are free to teach leingwa de ard to others in any form. For those who wish to have physical copies, I will put out an inexpensive book to purchase the contents of what is on GitHub. 
 
-Descriptions: This language compares aspects of language across the world, with a special emphasis on volume of speakers. An example of this is using a modified version of the Latin alphabet as most of the world uses 
+Description: This language compares aspects of language across the world, with a special emphasis on volume of speakers. An example of this is using a modified version of the Latin alphabet as most of the world uses 
 A: alphabets instead of other letter systems and 
 B: modified Latin ones. 
 That said, romance, germanic, and slavic languages have numerous grammatical complexities that make it difficult for learners coming from arabic, chinese, korean, japanese, and so on. Grammer is heavily influenced by chinese languages, while the root word vocabulary is largely indo-european based. The order is largely how you would expect in Spanish. 
