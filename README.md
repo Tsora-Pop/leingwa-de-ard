@@ -1,9 +1,9 @@
-# leingwa-de-erd
-leingwa de erd, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
+# leingwa-de-ard
+leingwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
 
-Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "leingwa de erd". This language seeks to provide a simple bridge when needed.
+Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "leingwa de ard". This language seeks to provide a simple bridge when needed.
 
-Access: Access to the rules and word lists will always be free on GitHub. Any are free to teach leingwa de erd to others in any form. For those who wish to have physical copies, I will put out an inexpensive book to purchase the contents of what is on GitHub. 
+Access: Access to the rules and word lists will always be free on GitHub. Any are free to teach leingwa de ard to others in any form. For those who wish to have physical copies, I will put out an inexpensive book to purchase the contents of what is on GitHub. 
 
 Descriptions: This language compares aspects of language across the world, with a special emphasis on volume of speakers. An example of this is using a modified version of the Latin alphabet as most of the world uses 
 A: alphabets instead of other letter systems and 
@@ -12,7 +12,7 @@ That said, romance, germanic, and slavic languages have numerous grammatical com
 
 But it doesn't just seek to just use what is most commonly used, it seeks to balance common use, ease of communication (written and spoken), and ease of learning. 
 
-leingwa de erd rules:
+leingwa de ard rules:
 1. All countries are pronounced how they are in their native country, but spelled using this alphabet.
 2. All root words must be the most common across the world, accounting for volume of people and use across the world.
 3. Sentences must be in SVO format, as this the most commonly spoken sentence structure order.
@@ -23,18 +23,19 @@ leingwa de erd rules:
 8. Metric system supported, as well as a counting system similar to esperanto.
 9. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
-leingwa de erd alphabet <br>
+leingwa de ard alphabet <br>
 ʌ: IPA (ə, ʌ, ɞ) <br>
 a: IPA (a, ä, ɐ) <br>
 ɑ: IPA (ɑ, ɒ, ɔ) <br>
 b: IPA (b) <br>
-ч: IPA (t͜ʃ) <br>
+ч: IPA (t͜ʃ, tɕ) <br>
 d: IPA(d) <br>
-e: IPA (e̞,ɛ,ø̞,ɪ,ʏ,ɘ,œ) <br>
+e: IPA (e̞, ɛ) <br>
+i: IPA (ɪ) <br>
 f: IPA(f) <br>
 g: IPA(g) <br>
 h: IPA(h) <br>
-i: IPA (i,y) <br>
+ī: IPA (i,y) <br>
 j: IPA(d͜ʒ) <br>
 k: IPA(k) <br>
 l: IPA (l) <br>
@@ -45,7 +46,7 @@ o: IPA (o,o̞) <br>
 p: IPA(p) <br>
 r: IPA(r) <br>
 s: IPA(s) <br>
-ш: IPA(ʃ) <br>
+x: IPA(ʃ, ɕ) <br>
 t: IPA(t) <br>
 u: IPA (u,ɯ,ʊ,ɵ,ʉ,ɨ) <br>
 v: IPA (v) <br>
@@ -56,29 +57,11 @@ z: IPA(z) <br>
 
 Dipthongs	Example <br>
 
-ui̯	GUI <br>
-ei 	make <br>
+uī	GUI <br>
+eī 	make <br>
 eu̯	few <br>
-ai̯	tie <br>
-oi̯	coin <br>
+aī	tie <br>
+oī	coin <br>
 au	cow, loud <br>
 ae ant
 
-pronouns
-first person - mi
-second person - tu
-third person - ta
-
-plural
-only pronouns will be plural
-example: tamen (them, they, those)
-
-tenses - none, instead always use
-
-articles - none
-
-conjunctions
-o - or
-i - and
-
-more to come...building vocabulary based on most spoken languages is not a fast process =)
