@@ -1,5 +1,5 @@
-# leingwa-de-ard
-leingwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
+# ΛEiNГ𐊮A DEI ARD
+ΛEiNГ𐊮A DEI ARD, or with the Latin alphabet: leingwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
 
 Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "leingwa de ard". This language seeks to provide a simple bridge when needed.
 
@@ -24,35 +24,34 @@ leingwa de ard rules:
 9. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
 leingwa de ard alphabet <br>
-ʌ: IPA (ə, ʌ, ɞ) <br>
-a: IPA (a, ä, ɐ) <br>
-ɑ: IPA (ɑ, ɒ, ɔ) <br>
-b: IPA (b) <br>
-ч: IPA (t͜ʃ, tɕ) <br>
-d: IPA(d) <br>
-e: IPA (e̞, ɛ) <br>
-i: IPA (ɪ) <br>
-f: IPA(f) <br>
-g: IPA(g) <br>
-h: IPA(h) <br>
-i: IPA (i,y) <br>
-j: IPA(d͜ʒ) <br>
-k: IPA(k) <br>
-l: IPA (l) <br>
-m: IPA (m) <br>
-n: IPA(n) <br>
-ŋ: IPA(ŋ) <br> -- pending removal 
-o: IPA (o,o̞) <br>
-p: IPA(p) <br>
-r: IPA(r) <br>
-s: IPA(s) <br>
-x: IPA(ʃ, ɕ) <br>
-t: IPA(t) <br>
-u: IPA (u,ɯ,ʊ,ɵ,ʉ,ɨ) <br>
-v: IPA (v) <br>
-w: IPA(w) <br>
-y: IPA(j) <br>
-z: IPA(z) <br>
+A: IPA (a, ä, ɐ) <br>
+Ə: IPA (ə, ʌ, ɞ) <br>
+E: IPA (e̞, ɛ) <br>
+I: IPA (ɪ) <br>
+i: IPA (i) <br>
+Ω: IPA (ɑ, ɒ, ɔ) <br>
+O: IPA (o,o̞) <br>
+ꙋ: IPA (u,ɯ,ʊ,ɵ,ʉ,ɨ) <br>
+Б: IPA (b) <br>
+Ϫ: IPA (t͜ʃ, tɕ) <br>
+D: IPA(d) <br>
+F: IPA(f) <br>
+Г: IPA(g) <br>
+ᚻ: IPA(h) <br>
+Ꙉ: IPA(d͜ʒ,d͡ʑ) <br>
+K: IPA(k) <br>
+Λ: IPA (l) <br>
+M: IPA (m) <br>
+N: IPA(n) <br>
+п: IPA(p) <br>
+R: IPA(r) <br>
+S: IPA(s) <br>
+ષ: IPA(ʃ, ɕ) <br>
+T: IPA(t) <br>
+V: IPA (v) <br>
+𐊮: IPA(w) <br>
+ય: IPA(j) <br>
+Z: IPA(z) <br>
 ж: IPA(ʒ)
 
 Dipthongs	Example <br>
@@ -64,4 +63,18 @@ ai	tie <br>
 oi	coin <br>
 au	cow, loud <br>
 ae ant
+
+ΛEiNГ𐊮A DEI ARD does its best to remove letters that may cause those who suffer from dylexia the complicated letters that appear as reflections as well as sticking to capital letters so as to remember less characters as a whole. This also seeks to remove any problematic characters that exist but sound completely different in another widely spoken language, making this language much more accessible as you do not have to retrain your mind on letters that you already have knowledge of. The breakdown below is roughly where the sound and letter combination of this alphabet pull from, and you'll see it is quite even among Latin, Cyrillic, and Greek alphabets. Every effort was made to attemt to include more sinitic, semetic, and Indo-Aryan based alphabets, but most characts would either be too much like a number, or the character went above or below the standard letter space. 
+Cyrillic - 14/29 <br>
+Latin - 15/29 <br>
+Greek - 13-14/29 <br>
+Indo-Aryan-3 <br>
+Runic - 2 <br>
+
+As a comparison, please see how many letters English shares with the 3 related alphabets
+english
+
+latin - 26 <br>
+greek - 9 <br>
+cyrillic - 9 <br>
 
