@@ -33,12 +33,10 @@ i: IPA (i) <br>
 O: IPA (o,o̞) <br>
 ꙋ: IPA (u,ɯ,ʊ,ɵ,ʉ,ɨ) <br>
 Б: IPA (b) <br>
-ꍯ: IPA (t͜ʃ, tɕ) <br>
 D: IPA(d) <br>
 F: IPA(f) <br>
 Г: IPA(g) <br>
 ᚻ: IPA(h) <br>
-⚻: IPA(d͜ʒ,d͡ʑ) <br>
 K: IPA(k) <br>
 Λ: IPA (l) <br>
 M: IPA (m) <br>
@@ -46,13 +44,13 @@ N: IPA(n) <br>
 п: IPA(p) <br>
 R: IPA(r) <br>
 S: IPA(s) <br>
-𑂭: IPA(ʃ, ɕ) <br>
+ષ: IPA(ʃ, ɕ) <br>
 T: IPA(t) <br>
 ⩥: IPA (v) <br>
 𐊮: IPA(w) <br>
 ય: IPA(j) <br>
 Ƶ: IPA(z) <br>
-ж: IPA(ʒ)
+Ж: IPA(ʒ)
 
 Dipthongs	Example <br>
 
