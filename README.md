@@ -12,7 +12,7 @@ That said, romance, germanic, and slavic languages have numerous grammatical com
 
 But it doesn't just seek to just use what is most commonly used, it seeks to balance common use, ease of communication (written and spoken), and ease of learning. 
 
-leingwa de ard rules:
+λEiNГ𐊮A DEI ARD rules:
 1. All countries are pronounced how they are in their native country, but spelled using this alphabet.
 2. All root words must be the most common across the world, accounting for volume of people and use across the world.
 3. Sentences must be in SVO format, as this the most commonly spoken sentence structure order.
@@ -23,7 +23,7 @@ leingwa de ard rules:
 8. Metric system supported, as well as a counting system similar to esperanto.
 9. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
-leingwa de ard alphabet <br>
+λEiNГ𐊮A DEI ARD alphabet <br>
 A: IPA (a, ä, ɐ) <br>
 Ə: IPA (ə, ʌ, ɞ) <br>
 E: IPA (e̞, ɛ) <br>
