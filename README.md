@@ -1,5 +1,5 @@
-# ΛEiNГ𐊮A DEI ARD
-ΛEiNГ𐊮A DEI ARD, or with the Latin alphabet: leingwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
+# λEiNГ𐊮A DEI ARD
+λEiNГ𐊮A DEI ARD, or with the Latin alphabet: leingwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
 
 Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "leingwa de ard". This language seeks to provide a simple bridge when needed.
 
@@ -62,7 +62,7 @@ oi	coin <br>
 au	cow, loud <br>
 ae ant
 
-ΛEiNГ𐊮A DEI ARD does its best to remove letters that may cause those who suffer from dylexia the complicated letters that appear as reflections as well as sticking to capital letters so as to remember less characters as a whole. This also seeks to remove any problematic characters that exist but sound completely different in another widely spoken language, making this language much more accessible as you do not have to retrain your mind on letters that you already have knowledge of. The breakdown below is roughly where the sound and letter combination of this alphabet pull from, and you'll see it is quite even among Latin, Cyrillic, and Greek alphabets. Every effort was made to attemt to include more sinitic, semetic, and Indo-Aryan based alphabets, but most characts would either be too much like a number, or the character went above or below the standard letter space. 
+λEiNГ𐊮A DEI ARD does its best to remove letters that may cause those who suffer from dylexia the complicated letters that appear as reflections as well as sticking to capital letters so as to remember less characters as a whole. This also seeks to remove any problematic characters that exist but sound completely different in another widely spoken language, making this language much more accessible as you do not have to retrain your mind on letters that you already have knowledge of. The breakdown below is roughly where the sound and letter combination of this alphabet pull from, and you'll see it is quite even among Latin, Cyrillic, and Greek alphabets. Every effort was made to attemt to include more sinitic, semetic, and Indo-Aryan based alphabets, but most characts would either be too much like a number, or the character went above or below the standard letter space. 
 
 Cyrillic - 12/27 <br>
 Latin - 15/27 <br>
