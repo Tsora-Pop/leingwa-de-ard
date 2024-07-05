@@ -38,15 +38,15 @@ F: IPA(f) <br>
 Г: IPA(g) <br>
 ᚻ: IPA(h) <br>
 K: IPA(k) <br>
-Λ: IPA (l) <br>
+λ: IPA (l) <br>
 M: IPA (m) <br>
 N: IPA(n) <br>
-п: IPA(p) <br>
+П: IPA(p) <br>
 R: IPA(r) <br>
 S: IPA(s) <br>
 ષ: IPA(ʃ, ɕ) <br>
 T: IPA(t) <br>
-⩥: IPA (v) <br>
+V: IPA (v) <br>
 𐊮: IPA(w) <br>
 ય: IPA(j) <br>
 Ƶ: IPA(z) <br>
@@ -63,13 +63,13 @@ au	cow, loud <br>
 ae ant
 
 ΛEiNГ𐊮A DEI ARD does its best to remove letters that may cause those who suffer from dylexia the complicated letters that appear as reflections as well as sticking to capital letters so as to remember less characters as a whole. This also seeks to remove any problematic characters that exist but sound completely different in another widely spoken language, making this language much more accessible as you do not have to retrain your mind on letters that you already have knowledge of. The breakdown below is roughly where the sound and letter combination of this alphabet pull from, and you'll see it is quite even among Latin, Cyrillic, and Greek alphabets. Every effort was made to attemt to include more sinitic, semetic, and Indo-Aryan based alphabets, but most characts would either be too much like a number, or the character went above or below the standard letter space. 
-Cyrillic - 14/29 <br>
-Latin - 14/29 <br>
-Greek - 13-14/29 <br>
+
+Cyrillic - 12/27 <br>
+Latin - 15/27 <br>
+Greek - 12/27 <br>
 Indo-Aryan-3 <br>
-Runic - 2 <br>
-Korean - 1
-Other - 1
+Runic/Other - 5 <br>
+
 
 As a comparison, please see how many letters English shares with the 3 related alphabets
 english
@@ -78,3 +78,4 @@ latin - 26 <br>
 greek - 9 <br>
 cyrillic - 9 <br>
 
+Keep in mind that these letters are temporary. If after identifying the vocabulary for several thousand words and certain letters have not been used, they will be removed. 
