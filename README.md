@@ -1,5 +1,5 @@
-# λEiNГ𐊮A DEI ARD
-λEiNГ𐊮A DEI ARD, or with the Latin alphabet: leingwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
+# λƐiNГ𐊮A DƐI ARD
+λƐiNГ𐊮A DƐI ARD, or with the Latin alphabet: leingwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
 
 Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "leingwa dei ard". This language seeks to provide a simple bridge when needed.
 
@@ -12,7 +12,7 @@ That said, romance, germanic, and slavic languages have numerous grammatical com
 
 But it doesn't just seek to just use what is most commonly used, it seeks to balance common use, ease of communication (written and spoken), and ease of learning. 
 
-λEiNГ𐊮A DEI ARD rules:
+λƐiNГ𐊮A DƐI ARD rules:
 1. All countries are pronounced how they are in their native country, but spelled using this alphabet.
 2. All root words must be the most common across the world, accounting for volume of people and use across the world.
 3. Sentences must be in SVO format, as this the most commonly spoken sentence structure order.
@@ -22,10 +22,10 @@ But it doesn't just seek to just use what is most commonly used, it seeks to bal
 7. Metric system supported, as well as a counting system similar to esperanto. Common Arabic numeral system as the globally used system will be used.
 8. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
-λEiNГ𐊮A DEI ARD alphabet <br>
+λƐiNГ𐊮A DƐI ARD alphabet <br>
 A: IPA (a, ä, ɐ) <br>
 Ə: IPA (ə, ʌ, ɞ) <br>
-E: IPA (e̞, ɛ) <br>
+Ɛ: IPA (e̞, ɛ) <br>
 I: IPA (ɪ) <br>
 i: IPA (i) <br>
 Ω: IPA (ɑ, ɒ, ɔ) <br>
@@ -53,13 +53,13 @@ V: IPA (v) <br>
 
 Dipthongs	Example <br>
 
-ui	GUI <br>
-ei 	make <br>
-eu̯	few <br>
-ai	tie <br>
-oi	coin <br>
-au	cow, loud <br>
-ae ant
+ꙋi	GUI <br>
+Ɛi 	make <br>
+Ɛꙋ	few <br>
+Ai	tie <br>
+Oi	coin <br>
+Aꙋ	cow, loud <br>
+AƐ ant
 
 ja can be made using DЖ
 cha can be made using Tષ
