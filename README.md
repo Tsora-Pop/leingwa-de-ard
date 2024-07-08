@@ -26,7 +26,7 @@ But it doesn't just seek to just use what is most commonly used, it seeks to bal
 A: IPA (a, ä, ɐ) <br>
 Ə: IPA (ə, ʌ, ɞ) <br>
 Ɛ: IPA (e̞, ɛ) <br>
-Ɪ: IPA (ɪ) <br>
+I: IPA (ɪ) <br>
 i: IPA (i) <br>
 Ω: IPA (ɑ, ɒ, ɔ) <br>
 O: IPA (o,o̞) <br>
