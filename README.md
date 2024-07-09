@@ -24,7 +24,7 @@ But it doesn't just seek to just use what is most commonly used, it seeks to bal
 
 λƐiNГ𐊮A DƐI ARD alphabet <br>
 A: IPA (a, ä, ɐ) <br>
-Ə: IPA (ə, ʌ, ɞ) <br>
+Ը: IPA (ə, ʌ, ɞ) <br>
 Э: IPA (e̞, ɛ) <br>
 I: IPA (ɪ) <br>
 i: IPA (i) <br>
@@ -35,7 +35,7 @@ O: IPA (o,o̞) <br>
 D: IPA(d) <br>
 F: IPA(f) <br>
 Г: IPA(g) <br>
-ᚻ: IPA(h) <br>
+Ⴠ: IPA(h) <br>
 K: IPA(k) <br>
 λ: IPA (l) <br>
 M: IPA (m) <br>
@@ -70,7 +70,9 @@ Cyrillic - 12/27 <br>
 Latin - 15/27 <br>
 Greek - 12/27 <br>
 Indo-Aryan-3 <br>
-Runic/Other - 5 <br>
+Runic/Other - 3 <br>
+Armenian - 1 <br>
+Georgian - 1
 
 
 As a comparison, please see how many letters English shares with the 3 related alphabets
