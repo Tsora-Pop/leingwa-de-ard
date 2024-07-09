@@ -25,7 +25,7 @@ But it doesn't just seek to just use what is most commonly used, it seeks to bal
 λƐiNГ𐊮A DƐI ARD alphabet <br>
 A: IPA (a, ä, ɐ) <br>
 Ə: IPA (ə, ʌ, ɞ) <br>
-Ɛ: IPA (e̞, ɛ) <br>
+Э: IPA (e̞, ɛ) <br>
 I: IPA (ɪ) <br>
 i: IPA (i) <br>
 Ω: IPA (ɑ, ɒ, ɔ) <br>
