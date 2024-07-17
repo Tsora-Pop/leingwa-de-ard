@@ -62,15 +62,17 @@ AԸ ant, Andy
 ja can be made using DЖ
 cha can be made using Tષ
 
-λEiNГ𐊮A DEI ARD does its best to remove letters that may cause those who suffer from dylexia the complicated letters that appear as reflections as well as sticking to capital letters so as to remember less characters as a whole. This also seeks to remove any problematic characters that exist but have different sounds in 2 widely spoken languages, making this language much more accessible as there is a less likely change you do not have to retrain your mind on letters that you already have knowledge of. The breakdown below is roughly where the sound and letter combination of this alphabet pull from, and you'll see it is quite even among Latin, Cyrillic, and Greek alphabets. This Alphabetet system is a hybrid Indo-European Alphabet and would be considered a child system of Latin, Greek, Cyrillic, Indo-Aryan, and then some. Every effort was made to attemt to include more sinitic, semetic, and Indo-Aryan based alphabets, but most characts would either be too much like a number, or the character went above or below the standard letter space. 
+λEiNГ𐊮A DEI ARD does its best to remove letters that may cause those who suffer from dylexia the complicated letters that appear as reflections, sticking to capital letters so as to remember less characters as a whole, and removes any problematic characters that exist but have different sounds in 2 widely spoken languages, making this language much more accessible as there is a less likely change you do not have to retrain your mind on letters that you already have knowledge of. 
 
-Cyrillic - 12/27 <br>
-Latin - 14/27 <br>
-Greek - 12/27 <br>
-Indo-Aryan-3 <br>
-Runic/Other - 3 <br>
-Georgian - 2 <br>
-Armenian - 1 <br>
+The breakdown below is roughly where the sound and letter combination of this alphabet pull from, and you'll see it is quite even among Latin, Cyrillic, and Greek alphabets. This Alphabetet system is a unifed hybrid Indo-European Alphabet and would be considered a child system of Latin, Greek, Cyrillic, Indo-Aryan, and then some. Every effort was made to attemt to include more sinitic, semetic, and Indo-Aryan based alphabets, but most characts would either be too much like a number, or the character went above or below the standard letter space. 
+
+Cyrillic - 12/26 <br>
+Latin - 14/26 <br>
+Greek - 12/26 <br>
+Indo-Aryan- 3/26 <br>
+Runic/Other - 3/26 <br>
+Georgian - 2/26 <br>
+Armenian - 1/26 <br>
 
 
 As a comparison, please see how many letters English shares with the 3 related alphabets
