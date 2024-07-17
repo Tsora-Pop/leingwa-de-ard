@@ -1,5 +1,5 @@
-# λƐiNГ𐊮A DƐI ARD
-λƐiNГ𐊮A DƐI ARD, or with the Latin alphabet: leingwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
+# λƐINГ𐊮A DƐI ARD
+λƐINГ𐊮A DƐI ARD, or with the Latin alphabet: leingwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
 
 Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "leingwa dei ard". This language seeks to provide a simple bridge when needed.
 
@@ -12,7 +12,7 @@ That said, romance, germanic, and slavic languages have numerous grammatical com
 
 But it doesn't just seek to just use what is most commonly used, it seeks to balance common use, ease of communication (written and spoken), and ease of learning. 
 
-λƐiNГ𐊮A DƐI ARD rules:
+λƐINГ𐊮A DƐI ARD rules:
 1. All countries are pronounced how they are in their native country, but spelled using this alphabet.
 2. All root words must be the most common across the world, accounting for volume of people and use across the world.
 3. Sentences must be in SVO format, as this the most commonly spoken sentence structure order.
@@ -22,15 +22,14 @@ But it doesn't just seek to just use what is most commonly used, it seeks to bal
 7. Metric system supported, as well as a counting system similar to esperanto. Common Arabic numeral system as the globally used system will be used.
 8. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
-λƐiNГ𐊮A DƐI ARD alphabet <br>
+λƐINГ𐊮A DƐI ARD alphabet <br>
 A: IPA (a, ä, ɐ) <br>
 Ը: IPA (ə, ʌ, ɞ) <br>
 Э: IPA (e̞, ɛ) <br>
-I: IPA (ɪ) <br>
-i: IPA (i) <br>
+I: IPA (i,ɪ) <br>
 Ω: IPA (ɑ, ɒ, ɔ) <br>
 O: IPA (o,o̞) <br>
-ꙋ: IPA (u,ɯ,ʊ,ɵ,ʉ,ɨ) <br>
+Უ: IPA (u,ɯ,ʊ,ɵ,ʉ,ɨ) <br>
 Б: IPA (b) <br>
 D: IPA(d) <br>
 F: IPA(f) <br>
@@ -53,13 +52,12 @@ V: IPA (v) <br>
 
 Dipthongs	Example <br>
 
-ꙋi	GUI <br>
-Ɛi 	make <br>
-Ɛꙋ	few <br>
-Ai	tie <br>
-Oi	coin <br>
-Aꙋ	cow, loud <br>
-AƐ ant
+ᲣI	GUI <br>
+ƐI 	make <br>
+AI	tie <br>
+OI	coin <br>
+AᲣ	cow, loud <br>
+AԸ ant, Andy
 
 ja can be made using DЖ
 cha can be made using Tષ
@@ -67,12 +65,12 @@ cha can be made using Tષ
 λEiNГ𐊮A DEI ARD does its best to remove letters that may cause those who suffer from dylexia the complicated letters that appear as reflections as well as sticking to capital letters so as to remember less characters as a whole. This also seeks to remove any problematic characters that exist but have different sounds in 2 widely spoken languages, making this language much more accessible as there is a less likely change you do not have to retrain your mind on letters that you already have knowledge of. The breakdown below is roughly where the sound and letter combination of this alphabet pull from, and you'll see it is quite even among Latin, Cyrillic, and Greek alphabets. This Alphabetet system is a hybrid Indo-European Alphabet and would be considered a child system of Latin, Greek, Cyrillic, Indo-Aryan, and then some. Every effort was made to attemt to include more sinitic, semetic, and Indo-Aryan based alphabets, but most characts would either be too much like a number, or the character went above or below the standard letter space. 
 
 Cyrillic - 12/27 <br>
-Latin - 15/27 <br>
+Latin - 14/27 <br>
 Greek - 12/27 <br>
 Indo-Aryan-3 <br>
 Runic/Other - 3 <br>
+Georgian - 2 <br>
 Armenian - 1 <br>
-Georgian - 1
 
 
 As a comparison, please see how many letters English shares with the 3 related alphabets
