@@ -1,5 +1,5 @@
-# λƐINГ𐊮A DƐI ARD
-λƐINГ𐊮A DƐI ARD, or with the Latin alphabet: leingwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
+# λЭINГ𐊮A DЭI ARD
+λЭINГ𐊮A DЭI ARD, or with the Latin alphabet: leingwa de ard, or in English: The Language of Earth, is a proposed constructed international auxiliary language. 
 
 Purpose: The purpose of this language is to actually succeed where other international languages have failed: to make communication simple between speakers of different languages across the whole earth, hence the name "leingwa dei ard". This language seeks to provide a simple bridge when needed.
 
@@ -12,7 +12,7 @@ That said, romance, germanic, and slavic languages have numerous grammatical com
 
 But it doesn't just seek to just use what is most commonly used, it seeks to balance common use, ease of communication (written and spoken), and ease of learning. 
 
-λƐINГ𐊮A DƐI ARD rules:
+λЭINГ𐊮A DЭI ARD rules:
 1. All countries are pronounced how they are in their native country, but spelled using this alphabet.
 2. All root words must be the most common across the world, accounting for volume of people and use across the world.
 3. Sentences must be in SVO format, as this the most commonly spoken sentence structure order.
@@ -22,12 +22,11 @@ But it doesn't just seek to just use what is most commonly used, it seeks to bal
 7. Metric system supported, as well as a counting system similar to esperanto. Common Arabic numeral system as the globally used system will be used.
 8. Spaces must be used between each word. no hyphens are to be used to join one word to another.
 
-λƐINГ𐊮A DƐI ARD alphabet <br>
+λЭINГ𐊮A DЭI ARD alphabet <br>
 A: IPA (a, ä, ɐ) <br>
 Ը: IPA (ə, ʌ, ɞ) <br>
 Э: IPA (e̞, ɛ) <br>
 I: IPA (i,ɪ) <br>
-Ω: IPA (ɑ, ɒ, ɔ) <br>
 O: IPA (o,o̞) <br>
 Უ: IPA (u,ɯ,ʊ,ɵ,ʉ,ɨ) <br>
 Б: IPA (b) <br>
@@ -44,7 +43,6 @@ R: IPA(r) <br>
 S: IPA(s) <br>
 ષ: IPA(ʃ, ɕ) <br>
 T: IPA(t) <br>
-V: IPA (v) <br>
 𐊮: IPA(w) <br>
 ય: IPA(j) <br>
 Ƶ: IPA(z) <br>
@@ -66,13 +64,13 @@ cha can be made using Tષ
 
 The breakdown below is roughly where the sound and letter combination of this alphabet pull from, and you'll see it is quite even among Latin, Cyrillic, and Greek alphabets. This Alphabetet system is a unifed hybrid Indo-European Alphabet and would be considered a child system of Latin, Greek, Cyrillic, Indo-Aryan, and then some. Every effort was made to attemt to include more sinitic, semetic, and Indo-Aryan based alphabets, but most characts would either be too much like a number, or the character went above or below the standard letter space. 
 
-Cyrillic - 12/26 <br>
-Latin - 14/26 <br>
-Greek - 12/26 <br>
-Indo-Aryan- 3/26 <br>
-Runic/Other - 3/26 <br>
-Georgian - 2/26 <br>
-Armenian - 1/26 <br>
+Cyrillic - 13/24 <br>
+Latin - 13/24 <br>
+Greek - 10/24 <br>
+Indo-Aryan- 3/24 <br>
+Runic/Other - 3/24 <br>
+Georgian - 2/24 <br>
+Armenian - 1/24 <br>
 
 
 As a comparison, please see how many letters English shares with the 3 related alphabets
