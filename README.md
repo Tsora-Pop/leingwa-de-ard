@@ -50,12 +50,13 @@ T: IPA(t) <br>
 
 Dipthongs	Example <br>
 
-ᲣI	GUI <br>
-ƐI 	make <br>
-AI	tie <br>
+ᲣI	GUI, phooey <br>
+ƐI 	make, take <br>
+AI	tie, guy <br>
 OI	coin <br>
 AᲣ	cow, loud <br>
-AԸ ant, Andy
+AЭ ant, Andy <br>
+AԸ caught, plot
 
 ja can be made using DЖ
 cha can be made using Tષ
